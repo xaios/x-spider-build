@@ -10,3 +10,4 @@ X-Spider 是一款用于管理爬虫脚本、下载任务及资源的 Windows �
 ![5.png](image/5.png)
 ![6.png](image/6.png)
 ![7.png](image/7.png)
+![8.png](image/8.png)
